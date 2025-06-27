@@ -1,0 +1,29 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Marina's page"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "Marina Lozko"
+  email = "marinalozkoQA@gmail.com"
+  image = "img/marina.jpg"
+  imageQuality = 96
+  headline = "I'm only human"
+  bio = "Senior Software QA Engineer with extensive experience in ensuring product quality through robust testing practices"
+  links = [
+    { email = "mailto:marinalozkoQA@gmail.com" },
+    { link = "https://marinalozko.com/" },
+    { github = "https://github.com/MarinaL22" },
+    { linkedin = "https://linkedin.com/in/marina-lozko/" }
+   ]
